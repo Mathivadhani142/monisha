@@ -11,6 +11,6 @@ public class Scanner2 {
 
 		System.out.println("my age is :");
 		int age = data.nextInt();
-
+       System.out.println("hello world ");
 	}
 }
